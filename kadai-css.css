@@ -1,0 +1,19 @@
+body{width:1000px}
+header{background-color: #ffcccc;}
+#menu{background-color: #ccccff;
+    float:right;
+    width:300px;
+}
+
+#main{background-color: #ccffcc;
+    float:left;
+    width:700px;
+}
+footer{background-color: #ffccff}
+#wrapper{
+    overflow: hidden
+}
+
+#keitai{
+    float:right;
+}

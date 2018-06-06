@@ -1,0 +1,1 @@
+{"filter":false,"title":"index.php","tooltip":"~/kadai-tasklist/public/index.php","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1514998335000,"hash":"118a54b7f1491a80bab5407e720cffe2aebd7aa8"}

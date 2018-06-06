@@ -1,0 +1,1 @@
+{"filter":false,"title":"2018_05_22_065454_create_messages_table.php","tooltip":"~/message-board/database/migrations/2018_05_22_065454_create_messages_table.php","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1526972653108,"hash":"8d9313f0d43b8a1cb9f3f2d566a21f2ea7b4153d"}

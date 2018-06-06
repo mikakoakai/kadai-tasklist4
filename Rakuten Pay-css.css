@@ -1,0 +1,25 @@
+body{width: 1000px}
+header{background-color: lightyellow;
+      color: red;
+      height: 120px;
+}
+#keitai{float:right;
+       height: 450px;
+       width: 400px;
+       margin-left: 100px;
+}
+body{background-color: lightyellow;
+}
+#main{color:tomato; 
+}
+#no{text-align: center;
+}
+#ichi{
+    float:left;
+    margin-top:25px;
+}
+#ni{float: right;
+    margin-top:0px;
+}
+footer{margin-top: 500px;
+}

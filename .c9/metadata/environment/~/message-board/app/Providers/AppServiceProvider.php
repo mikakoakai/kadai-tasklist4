@@ -1,0 +1,1 @@
+{"filter":false,"title":"AppServiceProvider.php","tooltip":"~/message-board/app/Providers/AppServiceProvider.php","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1526971925355,"hash":"e7e645af6e0f35cbd6ddcf4babd160ef9cdcd1a6"}
